@@ -1,3 +1,3 @@
 # demo-git-repo
 
-some description.
+some description!
